@@ -1,0 +1,1 @@
+"C:\Program Files\Batch Processing Application Wrapper\SETTRUST.exe" "L:\#inputtext#" rwcemf .#inputtext#.Students.com.main.uct

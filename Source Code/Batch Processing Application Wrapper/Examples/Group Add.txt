@@ -1,0 +1,3 @@
+"C:\Program Files\Batch Processing Application Wrapper\GRPADD.exe" .Students_G.com.main.uct #inputtext#
+
+"C:\Program Files\Batch Processing Application Wrapper\GRPADD.exe" .HOC104C_G.com.main.uct #inputtext#
